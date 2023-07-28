@@ -12,3 +12,8 @@
         Apellido: lucietti
         Mail: elucietti@gmail.com
     
+
+        Nombre: perlita
+        Apellido: figueroa
+        Mail: perlitaloquita@gmail.com
+    
